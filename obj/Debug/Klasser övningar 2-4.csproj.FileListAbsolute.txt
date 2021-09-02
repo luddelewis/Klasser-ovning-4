@@ -1,0 +1,6 @@
+C:\Users\lelu1\Source\Repos\Cshrp_skolan_ovningar\Klasser övning 2\bin\Debug\Klasser övning 2.exe.config
+C:\Users\lelu1\Source\Repos\Cshrp_skolan_ovningar\Klasser övning 2\bin\Debug\Klasser övning 2.exe
+C:\Users\lelu1\Source\Repos\Cshrp_skolan_ovningar\Klasser övning 2\bin\Debug\Klasser övning 2.pdb
+C:\Users\lelu1\Source\Repos\Cshrp_skolan_ovningar\Klasser övning 2\obj\Debug\Klasser övning 2.exe
+C:\Users\lelu1\Source\Repos\Cshrp_skolan_ovningar\Klasser övning 2\obj\Debug\Klasser övning 2.pdb
+C:\Users\lelu1\Source\Repos\Cshrp_skolan_ovningar\Klasser övning 2\obj\Debug\Klasser övningar 2-4.csprojAssemblyReference.cache
