@@ -10,8 +10,9 @@ namespace Klasser_övning_2
     {
         static void Main(string[] args)
         {
+            //creates a new object from the class person
             Person User = new Person();
-
+            
             User.FirstName = TakeInput("Your first name?");
             User.LastName = TakeInput("Your last name?");
             Console.WriteLine("Your full name is: " + User.FirstName + " " + User.LastName);
@@ -20,9 +21,9 @@ namespace Klasser_övning_2
             
             if (User.IsOfAge) Console.WriteLine("You are of age!");
             else Console.WriteLine("You are not of age!");
-
-            User.Weight = int.Parse(TakeInput("Your weight? (kg)"));
-            User.Heigth = int.Parse(TakeInput("Your height? (m)"));
+            //gets and parses data used in bmi calculation
+            User.Weight = double.Parse(TakeInput("Your weight? (kg)"));
+            User.Heigth = double.Parse(TakeInput("Your height? (m)").Replace('.',','));
             Console.WriteLine("Your BMI is: " + User.BMI);
 
 
